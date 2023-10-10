@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/GolanSG/CoreSPM",
+        "state": {
+          "branch": null,
+          "revision": "f5fe918dfe73ffa5d418cbebe4ac498ade52a3eb",
+          "version": "1.5.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
