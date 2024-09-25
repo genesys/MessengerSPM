@@ -13,7 +13,7 @@ let package = Package(
             targets: ["Messenger"]
         )
     ],
-    dependencies: [.package(url: "https://github.com/GolanSG/CoreSPM", from: "1.10.1")],
+//    dependencies: [.package(url: "https://github.com/GolanSG/CoreSPM", from: "1.10.1")],
     targets: [
         .binaryTarget(
             name: "Messenger",
