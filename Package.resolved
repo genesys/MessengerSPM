@@ -1,15 +1,16 @@
 {
-  "originHash" : "c9b1e3bcbfbc7bc0f51d43de4926ead27cc67e3c0bbfaced86aae19b06ae0dd8",
-  "pins" : [
-    {
-      "identity" : "corespm",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/GolanSG/CoreSPM",
-      "state" : {
-        "revision" : "e227f685f1e82b160fe61de1adb7e1b791e3a234",
-        "version" : "1.10.1"
+  "object": {
+    "pins": [
+      {
+        "package": "GenesysCloudCore",
+        "repositoryURL": "https://github.com/Genesys/CoreSPM.git",
+        "state": {
+          "branch": null,
+          "revision": "28b355b8a2d9d79bd2fb7ea5a742cd96f5aae13b",
+          "version": "1.10.2"
+        }
       }
-    }
-  ],
-  "version" : 3
+    ]
+  },
+  "version": 1
 }

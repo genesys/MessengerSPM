@@ -15,15 +15,15 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/GolanSG/CoreSPM.git",
-            from: "1.10.1"
+            url: "https://github.com/Genesys/CoreSPM.git",
+            from: "1.10.2"
         ),
     ],
     targets: [
         .binaryTarget(
             name: "GenesysCloudMessenger",
-            url: "https://genesysdx.jfrog.io/artifactory/genesys-cloud-ios.prod/GenesysCloudMessenger/GenesysCloudMessenger_version_t1.10.1_commit_409f8efe780d21e16ed5aa9f142d7bd9565c4d65.zip",
-            checksum: "0bd940be8cc8abcc9b9aa354b70cde676fe7d0a0155366522a5340a24c9c1b8f"
+            url: "https://genesysdx.jfrog.io/artifactory/genesys-cloud-ios.prod/GenesysCloudMessenger/GenesysCloudMessenger_version_t1.10.2_commit_d3bedb94d0f0cba814400b457eb28a5d072592ed.zip",
+            checksum: "3340d818ac2067e45a5b758b1af09a8c64b9bc2ed034a0c2ec9c77d9ee97b139"
         ),
         .binaryTarget(
             name: "MessengerTransportTarget",
